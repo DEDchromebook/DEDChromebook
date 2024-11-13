@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codeguy271
-- 👀 I’m interested in seb development and chromebooks
+- 👀 I’m interested in web development and chromebooks
 - 🌱 I’m currently learning python
 - 📫 How to reach me: dedchr0mebook@gmail.com
 - 😄 Pronouns: He/Him

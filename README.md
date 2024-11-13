@@ -1,5 +1,4 @@
-![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=codeguy271&layout=compact&theme=radical&show_icons=true&rank_icon=github))
-
+![Readme Card](https://github-readme-stats.vercel.app/api?username=codeguy271&layout=compact&theme=radical&show_icons=true&rank_icon=github)
 - 👋 Hi, I’m @codeguy271
 - 👀 I’m interested in web development and chromebooks
 - 🌱 I’m currently learning python
